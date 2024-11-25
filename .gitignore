@@ -1,0 +1,14 @@
+junk/
+input/
+temp/train_df.csv
+temp/val_df.csv
+temp/data_df.csv
+temp/trips_summary_df.csv
+temp/trips_df_cleaned.csv
+temp/trips_df_without_duplicates.csv
+temp/trips_df.csv
+code/juunk.ipynb
+# input/country-coord.csv
+# input/dataset_240526_res_1.csv
+# input/dataset_24_0801_res_1.csv.gz
+
